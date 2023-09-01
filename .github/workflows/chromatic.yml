@@ -23,4 +23,3 @@ jobs:
 
       - name: Run Chromatic
         run: npm run chromatic
-        env: CHROMATIC_PROJECT_TOKEN:chpt_2be4f63bbf47fa8
